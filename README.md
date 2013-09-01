@@ -26,6 +26,11 @@ This idea was stolen from this post:
 http://brainspec.com/blog/2012/09/28/lightning-json-in-rails/
 by Sergey Nartimov
 
+## TODO
+
+1) Associations
+2) Dynamic methods
+
 ## Contributing
 
 1. Fork it
