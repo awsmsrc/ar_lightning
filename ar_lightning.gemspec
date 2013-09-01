@@ -10,7 +10,7 @@ Gem::Specification.new do |spec|
   spec.email         = ["email@luke-roberts.info"]
   spec.description   = %q{This gem implements some of the ideas discussed in this post:http://brainspec.com/blog/2012/09/28/lightning-json-in-rails/ for LIGHTNING fast rails APIs}
   spec.summary       = %q{Lightning fast APIs as discussed in this post:http://brainspec.com/blog/2012/09/28/lightning-json-in-rails/}
-  spec.homepage      = ""
+  spec.homepage      = "https://github.com/lukeroberts1990/ar_lightning"
   spec.license       = "MIT"
 
   spec.files         = `git ls-files`.split($/)
