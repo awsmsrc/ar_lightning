@@ -34,8 +34,8 @@ by Sergey Nartimov
 
 ## TODO
 
-1) Associations
-2) Dynamic methods
+1. Associations
+2. Dynamic methods
 
 ## Contributing
 
