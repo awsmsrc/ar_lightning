@@ -1,6 +1,12 @@
 # ArLightning
 
-TODO: Write a gem description
+Turbo boost your Rails APIs with some ar_lightning!
+
+We all know Ruby isn't the fastest language and we know Rails does ALOT of
+magic. Sometimes this magic (awesome though it is) deceives us into thinking
+Ruby is slower then it is and wei simply can't have speed! 
+
+If your API is simply returning data this gem could be for you.
 
 ## Installation
 
