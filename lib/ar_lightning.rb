@@ -1,5 +1,4 @@
 require "ar_lightning/version"
+require "ar_lightning/active_record"
 
-module ArLightning
-  # Your code goes here...
-end
+ActiveRecord::Base.extend ARLightning::ActiveRecord
