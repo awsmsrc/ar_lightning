@@ -18,7 +18,13 @@ Or install it yourself as:
 
 ## Usage
 
-TODO: Write usage instructions here
+Simply send the method 'lightning' to your AR class/query and get back plain old
+hash objects. This skips initializing AR objects in the name of speed which
+saves ALOT of time with large datasets.
+
+This idea was stolen from this post: 
+http://brainspec.com/blog/2012/09/28/lightning-json-in-rails/
+by Sergey Nartimov
 
 ## Contributing
 
